@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr -P printer "Hello,World"
+echo “Hello, World”
